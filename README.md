@@ -1,4 +1,4 @@
 # Pandas-Practice
-This is first Git Repository
+“My pandas practice notebooks (with ChatGPT’s help 💪)”
 <br>
 Author - Aayush Kumar 
